@@ -6,9 +6,20 @@
 [Erik Velldal](erikv@ifi.uio.no)
 
 
-The experiments here explore the use of multi-task learning (MTL) for incorporating external knowledge in neural models. Specifically, we show how MTL can enable a BiLSTM sentiment classifier to incorporate information from sentiment lexicons. The repo contains the models and data used for the experiments from the following paper presented at NoDaLiDa 2019:
+The experiments here explore the use of multi-task learning (MTL) for incorporating external knowledge in neural models. Specifically, we show how MTL can enable a BiLSTM sentiment classifier to incorporate information from sentiment lexicons. The repo contains the models and data used for the experiments from the following paper presented at NoDaLiDa 2019. If you use the code or data, please cite the publication.
 
-Jeremy Barnes, Samia Touileb, Lilja Øvrelid, and Erik Velldal. 2019. **Lexicon information in neural sentiment analysis: a multi-task learning approach**. In *Proceedings of NoDaLiDa 2019*.
+
+```
+@inproceedings{Barnes2019,
+  author = {Barnes, Jeremy and Touileb, Samia and Øvrelid, Lilja and Velldal, Erik},
+  title = {Lexicon information in neural sentiment analysis: a multi-task learning approach},
+  booktitle = "Proceedings of the 22nd Nordic Conference on Computational Linguistics",
+  month = october,
+  year = "2019",
+  address = "Turku, Finnland",
+  publisher = "Association for Computational Linguistics"
+}
+```
 
 
 ## Model
