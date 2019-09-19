@@ -1,8 +1,8 @@
 # Multitask incorporation of lexicon information for neural sentiment classification
 
-[Samia Touileb](samiat@ifi.uio.no)
-[Jeremy Barnes](jeremycb@ifi.uio.no)
-[Lilja Øvrelid](liljao@ifi.uio.no)
+[Samia Touileb](samiat@ifi.uio.no),
+[Jeremy Barnes](jeremycb@ifi.uio.no),
+[Lilja Øvrelid](liljao@ifi.uio.no),
 [Erik Velldal](erikv@ifi.uio.no)
 
 
@@ -30,7 +30,7 @@ Jeremy Barnes, Samia Touileb, Lilja Øvrelid, and Erik Velldal. 2019. **Lexicon 
 3. Pytorch ```pip install torch torchvision```
 
 ### How to run experiments
-In order to reproduce the experiments, you will need the [pretrained embeddings]() and set the ``` --EMBEDDINGS``` variable to point to these. If you're not interested in reproducing the experiments, you can always use your own embeddings.
+In order to reproduce the experiments, you will need the [pretrained embeddings](https://drive.google.com/open?id=1GpyF2h0j8K5TKT7y7Aj0OyPgpFc8pMNS). Untar the file and set the ``` --EMBEDDINGS``` variable to point to the 'google.txt' embeddings. If you're not interested in reproducing the experiments, you can always use your own embeddings.
 
 
 ```
