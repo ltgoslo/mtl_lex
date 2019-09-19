@@ -1,12 +1,10 @@
 # Multitask incorporation of lexicon information for neural sentiment classification
 
-[Samia Touileb](samiat@ifi.uio.no),
-[Jeremy Barnes](jeremycb@ifi.uio.no),
-[Lilja Øvrelid](liljao@ifi.uio.no),
-[Erik Velldal](erikv@ifi.uio.no)
+Jeremy Barnes,
+Samia Touileb,
+Lilja Øvrelid,
+Erik Velldal
 
-
-![](/images/model.pdf)
 
 The experiments here explore the use of multi-task learning (MTL) for incorporating external knowledge in neural models. Specifically, we show how MTL can enable a BiLSTM sentiment classifier to incorporate information from sentiment lexicons. The repo contains the models and data used for the experiments from the following paper presented at NoDaLiDa 2019. If you use the code or data, please cite the publication.
 
