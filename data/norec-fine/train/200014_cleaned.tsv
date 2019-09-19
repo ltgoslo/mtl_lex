@@ -1,0 +1,27 @@
+ID	E	EFINP	NOT	NFP	IAD	text
+1	0	0	0	0	0	120 GB Seagate Momentus 2,5 "
+2	0	0	0	0	0	Små disker med stor kapasitet og god ytelse har vi alltid ønsket oss - Seagate Momentum leverer en svært overbevisende disk .
+3	0	1	0	0	0	Lagringskapasitet på bærbare er ikke lenger noe problem .
+4	1	0	0	0	0	Med Seagates største utgave i Momentus-serien på hele 120 GB , har du nok av plass nesten uansett bruksområde .
+5	0	0	0	0	0	De som trenger mer plass tilhører helt spesielle grupper brukere , som uansett må ty til ekstern lagring .
+6	0	0	0	0	0	Da tenker vi på profesjonelt bruk innen foto , video og lyd .
+7	0	0	0	0	0	Kapasitetsøkningen skyldes økt lagringstetthet , det er bare 2 plater i diskenheten , som har standardhøyden på 9,5 mm .
+8	1	0	0	0	0	På kjøpet får man som kjent raskere skriving og lesing , og støynivået blir like lavt som hos enklere disker med liten roterende masse .
+9	1	0	0	0	0	Strømforbruket blir også lavt , Seagate sammeligner strømforbruket med mange 4200 RPM disker .
+10	0	0	0	0	0	Ytelse
+11	0	0	0	0	0	Disken leveres både i standard ATA og S-ATA .
+12	0	1	1	0	0	Vi testet standardutgaven , det er fremdeles ikke så mange bærbare som støtter intern S-ATA .
+13	0	1	1	0	0	S-ATA har høyere overføringshastighet fra bufferminnet på disken til kontrolleren i PCen , og støtter i tillegg NCQ ( Native Command Queing ) som optimaliserer posisjoneringen av hodene etter en analyse av trafikkmønsteret , basert på data som ønskes lest / skrevet til en hver tid .
+14	0	0	0	0	0	Skrivehastigheten startet på 33 MB / sek og falt av mot i underkant av 20 MB / sek .
+15	1	0	0	0	0	Dette gir et gjennomsnitt på 27,3 MB / sek som er meget bra .
+16	1	0	0	0	0	Lesehastigheten startet på over 40 MB / sek og falt til 27 MB / sek , dette er også en meget bra ytelse .
+17	1	0	0	0	0	Aksessiden på 16,8 ms , også en helt akseptabel prestasjon .
+18	0	0	0	0	0	Støynivå
+19	1	0	0	0	0	Denne disken er svært stillegående .
+20	1	0	0	0	0	Støynivået er så lavt at det ikke var mulig å måle det i forhold til bakgrunnstøyen , selv ikke inne i vår isolerte støykasse .
+21	0	0	0	0	0	Ved å legge øret helt inntil disken kunne vi såvidt høre rotasjonsstøy , det eneste som er såvidt hørbart er små klikkelyder fra hodemekanismen .
+22	1	0	0	0	0	For alle praktiske formål er denne disken nærmest lydløs .
+23	0	0	0	0	0	Konklusjon
+24	1	0	0	0	0	Seagate Momentus 5400.2 er en rask og stillegående disk , som gir deg romslig kapasitet i din bærbare , eller kompakt og høy kapasitet montert i et eksternt kabinett .
+25	1	0	0	0	0	Den vil også være et utmerket valg i en stuePC .
+26	0	0	0	0	0	Seagate Momentus finnes i størrelser fra 40 GB og oppover .

@@ -1,0 +1,40 @@
+ID	E	EFINP	NOT	NFP	IAD	text
+1	0	0	0	0	0	TEST :
+2	0	0	0	0	0	Kingston SSDNow V+
+3	1	0	0	0	0	Et komplett sett for oppgradering av ytelse og kapasitet
+4	0	0	0	0	0	Når du skal bytte ut den interne harddisken i en bærbar med en SSD har du flere utfordringer .
+5	0	0	0	0	0	Først og fremst må du kunne koble til SSD-en for å kunne kopiere over alt innholdet fra harddisken - eller rettere sagt klone disken .
+6	0	0	0	0	0	Så må du ha et program som tar seg av kloningen , og en mulighet for å kunne koble til harddisken etterpå når , for å bruke den til å lagre data .
+7	1	0	0	0	1	Alt dette kommer fiks ferdig i dette settet fra Kingston .
+8	0	0	0	0	0	Innholdet i pakken
+9	0	1	0	0	1	I tillegg til selve SSD-en , som i vårt testeksemplar var på 128 GB , følger det med kabler , skruer , monteringsbraketter for montering i stasjonær PC , et enkelt kabinett med intern SATA og ekstern USB-tilkobling og en CD med dokumentasjon og kloneprogram .
+10	0	0	0	0	0	I bruk
+11	0	0	0	0	0	Kabinettet til disken åpnes ved å trekke lokket av , etter at du har skjøvet låseknappen til side .
+12	0	0	0	0	0	Så er det bare å sette i disken og skyve tilbake lokket .
+13	1	0	1	0	1	Så kommer det alltid tilbakevendende problemet :
+14	0	0	0	0	1	Har du mer data på harddisken enn det er plass til på SSD-en må du først kopiere over det du vil beholde fra harddisken til et tredje lagringsmedium , og så slette så mye data på disken at du får plass på SSD-en .
+15	0	0	0	0	0	Les :
+16	1	0	0	0	1	En mye bedre løsning :
+17	1	0	0	0	1	Paragon Migrate OS to SSD
+18	0	0	0	0	0	Når du skal klone harddisken setter du SSD-en i det lille kabinettet og starter den bærbare med CD-en som følger med .
+19	0	0	0	0	0	Husk å velte oppstart fra CD i BIOS eller fra eventell oppstartsmeny .
+20	0	0	0	0	0	Mer om dette finner du i brukerveiledningen til den bærbare .
+21	0	0	0	0	0	Kloneprogrammet lastes så inn og du velger hvilken disk som skal klones fra og til , så er det bare å vente til programmet er ferdig .
+22	0	0	0	0	0	Når dette er gjort tar du ut SSD-en , skrur opp den bærbare og tar ut harddisken , setter inn SSD-en og skrur igjen .
+23	0	0	0	0	0	Så setter du harddisken i det eksterne kabinettet .
+24	0	0	0	0	0	Så er det bare å starte opp den bærbare igjen og du vil oppleve det som om du har fått en helt ny maskin !
+25	0	0	0	0	0	Hvor rask er SSD-en ?
+26	0	0	0	0	0	Vi målte med våre utvalgte testprogrammer og fikk disse resultatene :
+27	0	0	0	0	0	Det vi ser er at Kingston-disken ligger sammen med de andre SSD-ene vi har testet i leseytelse .
+28	1	0	0	0	1	I skriveytelse er den mer varierende enn de andre , dette skyldes kontrolleren som jobber mer aktivt med å tilrettelegge datablokkene for skriving .
+29	1	0	0	0	0	Ser vi på tallene fra AS SSD-testen , så er skrive og lesehastigheten på småfiler langt fra på høyde med de beste SSD-ene , faktisk langt under .
+30	1	0	0	0	1	OCZ Vertex 2 klarer 43,90 MB / sek mot Kingstons 8,89 MB / sek på 4k blokker , og enda viktigere : på iops på små filer ligger den veldig langt under OCZ :
+31	0	1	0	0	0	2327 mot 11 054 og 1892 mot 28 018 iops .
+32	0	0	0	0	0	Konklusjon :
+33	1	0	0	0	0	Kingston sitt sett er praktisk , og ytelsen vil gi deg en langt raskere maskin enn med en typisk harddisk på 5400 omdreininger .
+34	1	0	0	0	0	Men denne disken klarer ikke å hamle opp med nyere utgaver , både fra Kingston og andre leverandører .
+35	1	0	0	0	1	Kommer du over den til en svært gunstig pris kan det likevel være et godt kjøp .
+36	0	0	0	0	0	Kingston leverer slike sett med flere forskjellige typer harddisker .
+37	0	0	0	0	0	Den nyeste generasjonen heter V+100 .
+38	0	0	0	0	0	Vi kommer tilbake til test av denne .
+39	0	0	0	0	0	Kingston SSDNow V+100 SVP100S2 128GB
