@@ -11,12 +11,12 @@ The experiments here explore the use of multi-task learning (MTL) for incorporat
 
 ```
 @inproceedings{Barnes2019,
-  author = {Barnes, Jeremy and Touileb, Samia and Øvrelid, Lilja and Velldal, Erik},
+  author = {Barnes, Jeremy and Touileb, Samia and {\O}vrelid, Lilja and Velldal, Erik},
   title = {Lexicon information in neural sentiment analysis: a multi-task learning approach},
   booktitle = "Proceedings of the 22nd Nordic Conference on Computational Linguistics",
-  month = october,
+  month = "October",
   year = "2019",
-  address = "Turku, Finnland",
+  address = "Turku, Finland",
   publisher = "Association for Computational Linguistics"
 }
 ```
