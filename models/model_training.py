@@ -186,10 +186,10 @@ def train_model(vocab,
             print()
             print("loss: {0:.3f}".format(batch_losses / num_batches))
             model.eval()
-            f1, acc, preds, ys = model.eval_sent(maintask_train_iter,
-                                                 batch_size=BATCH_SIZE)
-            f1, acc, preds, ys = model.eval_sent(maintask_dev_iter,
-                                                 batch_size=BATCH_SIZE)
+            f1, acc, preds, xs, ys = model.eval_sent(maintask_train_iter,
+                                                     batch_size=BATCH_SIZE)
+            f1, acc, preds, xs, ys = model.eval_sent(maintask_dev_iter,
+                                                     batch_size=BATCH_SIZE)
 
             if acc > best_dev_acc:
                 best_dev_acc = acc
