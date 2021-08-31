@@ -30,7 +30,7 @@ The experiments here explore the use of multi-task learning (MTL) for incorporat
 5. MTL: The same sentiment classifier, but with an additional lexicon prediction module which is trained jointly.
 
 ## Datasets
-1. NoRec Eval (Norwegian)
+1. [NoRec Eval](https://github.com/ltgoslo/norec_eval) (Norwegian)
 2. [Stanford Sentiment Treebank](http://aclweb.org/anthology/D/D13/D13-1170.pdf) (English)
 
 
